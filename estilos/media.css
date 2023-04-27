@@ -19,7 +19,6 @@
 }
 
 .menu {
-    padding-left: 60px;
     font-size: 15px;
     font-family: 'bebas Neue';
     margin: 21px ;
@@ -45,7 +44,7 @@ a {
     transition-duration: 0.3s;
     text-decoration: none;
     color: white;
-    margin: 1px;
+    margin: 10px;
     text-align: center;
 }
 
